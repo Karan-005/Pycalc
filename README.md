@@ -24,3 +24,31 @@ To run this project, you’ll need:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Karan-005/Pycalc.git
+
+
+1. Navigate to the project directory.
+   cd Pycalc
+
+2. Run the calculator script......
+   python calculator.py
+
+After RUN the file..
+
+Welcome to Python Calculator!
+Choose an operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Power (^)
+Enter your choice: 1
+Enter the first number: 10
+Enter the second number: 5
+Result: 15
+
+
+
+AUTHOR : Karan Chourasiya__
+
+
+#. If you still facing issues with the files so feel free to contact me......
