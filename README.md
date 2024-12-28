@@ -25,12 +25,16 @@ To run this project, you’ll need:
    ```bash
    git clone https://github.com/Karan-005/Pycalc.git
 
-
+---
 ## Navigate to the project directory.
     cd Pycalc
+    
+---
 
 ## Run the calculator script......
     python calculator.py
+
+---
 
 ## After RUN the file..
 
@@ -46,7 +50,7 @@ To run this project, you’ll need:
       Enter the second number: 5
       Result: 15
 
-
+---
 
 ## AUTHOR : Karan Chourasiya__
 
